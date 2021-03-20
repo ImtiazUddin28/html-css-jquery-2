@@ -1,1 +1,2 @@
-# html-css-jquery-2
+# simple one page with html css and jquery
+
